@@ -378,6 +378,10 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     RetroMusic
 
+# OnePlus Recorder
+PRODUCT_PACKAGES += \
+    OPScreenRecorder
+
 # Thermal
 PRODUCT_PACKAGES += \
     thermal.msm8937
