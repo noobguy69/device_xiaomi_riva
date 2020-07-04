@@ -148,6 +148,10 @@ PRODUCT_PACKAGES += \
     FMRadio \
     libfmjni
 
+# Recorder
+PRODUCT_PACKAGES += \
+    OPScreenRecorder
+
 # For config.fs
 PRODUCT_PACKAGES += \
     fs_config_files
